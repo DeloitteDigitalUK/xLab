@@ -10,20 +10,27 @@ The current structure is
 **backlog** at
 
 **retro** at
-**friday fun at**
+**friday fun** at
+
 
 The current _sprint sovereign_ is @ Aashish
 
 ### Standup
 This is for
+
 last updated 8th July 2020
 
 ### Backlog
 This is for
+
 last updated 8th July 2020
 
 ### Retro
 This is for
 
+
+
 ### Friday Fun
 This is for
+
+
