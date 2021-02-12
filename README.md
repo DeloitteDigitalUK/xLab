@@ -9,7 +9,7 @@
 
   <p align="center">
     <br />
-    <h3>
+    <h3 align="center">
      <a href="https://github.com/DeloitteDigitalUK/xLab/wiki"><strong>view handbook »</strong></a>
      </h3>
     <br />
