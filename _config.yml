@@ -1,0 +1,14 @@
+# remote_theme: alexander-heimbuch/millidocs
+remote_theme: pmarsceill/just-the-docs
+show_wiki_pages: true
+aux_links:
+  "edit this page":
+    - "//github.com/DeloitteDigitalUK/xLab/wiki/"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page"
+gh_edit_repository: "https://github.com/DeloitteDigitalUK/xLab" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
