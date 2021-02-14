@@ -19,7 +19,7 @@ has_toc: true
 
 <div class="code-example" markdown="1">
 Apple coined the term "directly responsible individual" (DRI) to refer to the **one person with whom the buck stopped on any given project**. The idea is that every project is assigned an ***empowered*** DRI who is ultimately held accountable for the success (or failure) of that project.
-< /div>
+</div>
 
 https://www.quora.com/How-well-does-Apples-Directly-Responsible-Individual-DRI-model-work-in-practice
 
