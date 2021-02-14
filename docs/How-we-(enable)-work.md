@@ -6,8 +6,16 @@ has_children: true
 has_toc: true
 ---
 
-DRI / Directly Responsible Individual
--------------------------------------
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+## DRI / Directly Responsible Individual
 
 > Apple coined the term "directly responsible individual" (DRI) to refer to the **one person with whom the buck stopped on any given project**. The idea is that every project is assigned an ***empowered*** DRI who is ultimately held accountable for the success (or failure) of that project.
 
