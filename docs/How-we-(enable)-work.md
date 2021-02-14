@@ -23,6 +23,7 @@ https://www.quora.com/How-well-does-Apples-Directly-Responsible-Individual-DRI-m
 
 Issues, proposed changes, etc should be raised directly with the DRI; **the DRI's decision is final** - however, the DRI must **effectively communicate and document** the reasons, goals, and subsequent lessons for any changes implemented.
 
+{: .no_toc }
 ``` PRINCIPLE: **Every initiative** will have a **DRI** ```
 
 Sprint Sovereign
