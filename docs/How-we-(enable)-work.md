@@ -17,13 +17,13 @@ has_toc: true
 
 ## DRI / Directly Responsible Individual
 
-> Apple coined the term "directly responsible individual" (DRI) to refer to the **one person with whom the buck stopped on any given project**. The idea is that every project is assigned an ***empowered*** DRI who is ultimately held accountable for the success (or failure) of that project.
+``` Apple coined the term "directly responsible individual" (DRI) to refer to the **one person with whom the buck stopped on any given project**. The idea is that every project is assigned an ***empowered*** DRI who is ultimately held accountable for the success (or failure) of that project.```
 
 https://www.quora.com/How-well-does-Apples-Directly-Responsible-Individual-DRI-model-work-in-practice
 
 Issues, proposed changes, etc should be raised directly with the DRI; **the DRI's decision is final** - however, the DRI must **effectively communicate and document** the reasons, goals, and subsequent lessons for any changes implemented.
 
-### PRINCIPLE: **Every initiative** will have a **DRI**
+``` PRINCIPLE: **Every initiative** will have a **DRI** ```
 
 Sprint Sovereign
 ----------------
