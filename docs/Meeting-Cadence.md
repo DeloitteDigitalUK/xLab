@@ -18,6 +18,9 @@ nav_order: 2
     - RATIONALE: kick-off the week with sharing upcoming plans, incoming work, and assesing workload
     - DRI: er bs eg
     - PROCESS:
+      - alternate going across the columns from left-right and right-left weekly
+    - PRINCIPLES
+      - projects only added when we attach our price to them
 
 4.  **Wednesday Backlog, 2pm @ Zoom & Miro**: 
     - OBJECTIVE: team-wide catch-up on everything where there is active effort in the next two weeks
