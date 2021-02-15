@@ -13,9 +13,10 @@ nav_order: 2
     - RATIONALE: a moment early in the day to raise issues, ask for help, and check team morale
     - DRI: [Sprint Sovereign](How-we-(enable)-work)
 3.  **Monday Pipeline 10AM @ Zoom**:
-    - OBJECTIVE: team-wide catch-up regarding **new incoming work**
+    - OBJECTIVE: Reviewing **new incoming work**, qualifying it and understanding actions in terms of chasing opportunities
     - RATIONALE: kick-off the week with sharing upcoming plans, incoming work, and assesing workload
     - DRI: er bs eg
+    - PROCESS:  
 4.  **Wednesday Backlog, 2pm @ Zoom & Miro**: 
     - OBJECTIVE: team-wide catch-up on everything where there is active effort in the next two weeks
     - RATIONALE: share what you're working on; flag any issues, capacity, or need for help; connect with wider team to understand what The Team is working on

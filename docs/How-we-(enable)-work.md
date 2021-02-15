@@ -6,51 +6,32 @@ has_children: true
 has_toc: true
 ---
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
+DRI / Directly Responsible Individual
+-------------------------------------
 
-## DRI / Directly Responsible Individual
-
-<div class="code-example" markdown="1">
-Apple coined the term "directly responsible individual" (DRI) to refer to the **one person with whom the buck stopped on any given project**. The idea is that every project is assigned an ***empowered*** DRI who is ultimately held accountable for the success (or failure) of that project.
-</div>
+> Apple coined the term "directly responsible individual" (DRI) to refer to the **one person with whom the buck stopped on any given project**. The idea is that every project is assigned an ***empowered*** DRI who is ultimately held accountable for the success (or failure) of that project.
 
 https://www.quora.com/How-well-does-Apples-Directly-Responsible-Individual-DRI-model-work-in-practice
 
 Issues, proposed changes, etc should be raised directly with the DRI; **the DRI's decision is final** - however, the DRI must **effectively communicate and document** the reasons, goals, and subsequent lessons for any changes implemented.
 
-{: .no_toc }
-<div class="code-example" markdown="1">
-PRINCIPLE: **Every initiative** will have a **DRI**
-</div>
+### PRINCIPLE: **Every initiative** will have a **DRI**
 
 Sprint Sovereign
 ----------------
 
 The Sprint Sovereign runs (i.e. is the DRI for) Tapas as well as [Retro 👉](https://github.com/DeloitteDigitalUK/xLab/wiki) and [Backlog👉](https://github.com/DeloitteDigitalUK/xLab/wiki) sessions.
 
-<div class="code-example" markdown="1">
-PRINCIPLE: Sovereign rotates every 2 weeks throughout every member of the team. You're encouraged to volunteer, otherwise a random name will be picked via Slackbot
-</div>
+### PRINCIPLE: Sovereign rotates every 2 weeks throughout every member of the team. You're encouraged to volunteer, otherwise a random name will be picked via Slackbot
 
 Tandem
 ----------------------
 
 Amongst the many [issues of working in a fully distributed team 👉 ](https://github.com/DeloitteDigitalUK/xLab/issues) the biggest shock was the loss of serendipitous, casual conversation. After iterating through various methods to address this (more regular Zoom calls, scheduled frequent catchups, all day calls, etc) it became clear that this is primarily a [[workflow & tooling]] problem, not an [[attitude, cultural, or management]] issue. To that end we added **Tandem** to our toolkit; through considered UI and frictionless usability, this enables a quicker and more informal way to see what colleagues are doing and jump into voice rooms with them.
 
-<div class="code-example" markdown="1">
-🚀 Purely through using this tool - the right tool - we've increased collaboration, efficiency, wellbeing, and standard of work
-</div>
+### 🚀 Purely through using this tool - the right tool - we've increased collaboration, efficiency, wellbeing, and standard of work
 
-<div class="code-example" markdown="1">
-🚀 We also still use Zoom, Teams, Slack, etc - the right tool depends on the task at hand. It is incorrect to view e.g. Tandem as a replacement for Teams, even if superficially they seem similar.
-</div>
+### 🚀 We also still use Zoom, Teams, Slack, etc - the right tool depends on the task at hand. It is incorrect to view e.g. Tandem as a replacement for Teams, even if superficially they seem similar.
 
 ![image.png](https://github.com/DeloitteDigitalUK/xLab/raw/master/images/tandem.png)
 
