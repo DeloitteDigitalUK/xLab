@@ -26,7 +26,7 @@ nav_order: 2
 
 4.  **Wednesday Backlog, 2pm @ Zoom & Miro**: 
     - OBJECTIVE: team-wide catch-up on everything where there is active effort in the next two weeks
-    - RATIONALE: share what you're working on; flag any issues, capacity, or need for help; connect with wider team to understand what The Team is working on
+    - RATIONALE: share what you're working on; flag any issues, capacity, or need for help; connect with wider team to understand the strategic direction of the team
     - PROCESS:
       - Go through projects on pipeline board from READY TO START to RUNNING and check in with DRI for update on progress (10 mins)
       - For each item in those columns (where item corresponds to task-for-specific-project) there are 2 questions to ask:
