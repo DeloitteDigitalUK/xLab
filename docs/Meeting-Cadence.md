@@ -28,10 +28,14 @@ nav_order: 2
     - OBJECTIVE: team-wide catch-up on everything where there is active effort in the next two weeks
     - RATIONALE: share what you're working on; flag any issues, capacity, or need for help; connect with wider team to understand what The Team is working on
     - PROCESS:
-      - Go through projects on pipeline board from READY TO START to WRAP UP and check in with DRI for update on progress 
-      - Prioritise wrap-up activities - Make sure team workloads are appropriate, redistribute if necessary 
+      - Go through projects on pipeline board from READY TO START to RUNNING and check in with DRI for update on progress (10 mins)
+      - For each item in those columns (where item corresponds to task-for-specific-project) there are 2 questions to ask:
+        - Is it in the right place? 
+        - Is there active effort in the next two weeks? 
+      - Prioritise wrap-up activities 
+      - Make sure team workloads are appropriate, redistribute if necessary 
       - Ensure tasks are documented for people to work on
-    - DRI: [Sprint Sovereign](How-we-(enable)-work)
+    - DRI: ER / BS / EG
     
 5.  **Wednesday Retro, 3pm every other week @ Zoom & Miro**: 
     - OBJECTIVE: open feedback and discussion of team sentiment over the past 2 weeks
