@@ -28,7 +28,9 @@ nav_order: 2
     - OBJECTIVE: team-wide catch-up on everything where there is active effort in the next two weeks
     - RATIONALE: share what you're working on; flag any issues, capacity, or need for help; connect with wider team to understand what The Team is working on
     - PROCESS:
-      - TO BE DEFINED FOLLOWING SWITCHOVER FROM ASANA/MIRO TO JIRA
+      - Go through projects on pipeline board from READY TO START to WRAP UP and check in with DRI for update on progress 
+      - Prioritise wrap-up activities - Make sure team workloads are appropriate, redistribute if necessary 
+      - Ensure tasks are documented for people to work on
     - DRI: [Sprint Sovereign](How-we-(enable)-work)
     
 5.  **Wednesday Retro, 3pm every other week @ Zoom & Miro**: 
