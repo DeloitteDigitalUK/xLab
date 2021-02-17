@@ -8,6 +8,8 @@ nav_order: 2
     - OBJECTIVE: end-of-day catchup / line-in-the-sand between work and home hours
     - RATIONALE: something to act as an indicator that 'work' is over
     - DRI: [Sprint Sovereign](How-we-(enable)-work)
+
+
 2.  **Drop-in stand-up, daily 11AM @ Tandem**:
     - OBJECTIVE: team-wide update of task tracker
     - RATIONALE: a moment early in the day to raise issues, ask for help, and check team morale
@@ -25,11 +27,14 @@ nav_order: 2
 4.  **Wednesday Backlog, 2pm @ Zoom & Miro**: 
     - OBJECTIVE: team-wide catch-up on everything where there is active effort in the next two weeks
     - RATIONALE: share what you're working on; flag any issues, capacity, or need for help; connect with wider team to understand what The Team is working on
+    - PROCESS:
+      - TO BE DEFINED FOLLOWING SWITCHOVER FROM ASANA/MIRO TO JIRA
     - DRI: [Sprint Sovereign](How-we-(enable)-work)
     
 5.  **Wednesday Retro, 3pm every other week @ Zoom & Miro**: 
     - OBJECTIVE: open feedback and discussion of team sentiment over the past 2 weeks
     - RATIONALE: look back, learn, and do better next time (what went well, what could've gone better, heroes)
+    - PROCESS: Over the course of an hour spend time reflecting over the past 2 weeks and, on a Miro board, put up notes for 'what went well', 'what could have gone better', and who you'd like to nominate as 'heroes'
     - DRI: [Sprint Sovereign](How-we-(enable)-work) 
     
 6.  **Friday Demo & Chill, 4pm @ Zoom & Miro**: 
