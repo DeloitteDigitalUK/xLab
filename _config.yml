@@ -1,9 +1,9 @@
 # remote_theme: alexander-heimbuch/millidocs
 remote_theme: pmarsceill/just-the-docs
 show_wiki_pages: true
-aux_links:
-  "edit this page":
-    - "//github.com/DeloitteDigitalUK/xLab/wiki/"
+#aux_links:
+#  "edit this page":
+#    - "//github.com/DeloitteDigitalUK/xLab/wiki/"
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
