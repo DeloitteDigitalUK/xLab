@@ -24,7 +24,7 @@ has_toc: true
  - RATIONALE: a moment early in the day to raise issues, ask for help, and check team morale
  - DRI: [Sprint Sovereign](How-we-(enable)-work)
     
-## Monday Pipeline 10AM @ Zoom
+## Monday Pipeline, 10AM @ Zoom
  - OBJECTIVE: Reviewing **new incoming work**, qualifying it and understanding actions in terms of chasing opportunities
     - RATIONALE: kick-off the week with sharing upcoming plans, incoming work, and assesing workload
  - DRI: er bs eg
