@@ -33,7 +33,7 @@ has_toc: true
  - PRINCIPLES
    - projects only added when we attach our price to them
 
-### Wednesday Backlog, 2pm @ Zoom & Miro
+### Wednesday Backlog, 2pm @ Zoom & Jira Cloud
  - OBJECTIVE: team-wide catch-up on everything where there is active effort in the next two weeks
  - RATIONALE: share what you're working on; flag any issues, capacity, or need for help; connect with wider team to understand the strategic direction of the team
  - PROCESS:
