@@ -2,6 +2,7 @@
 layout: default
 title: Meeting Cadence
 nav_order: 2
+has_toc: true
 ---
 
 ### 1.   **Tapas, daily 4.40pm @ Zoom** 
