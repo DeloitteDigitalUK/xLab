@@ -4,6 +4,14 @@ title: Meeting Cadence
 nav_order: 2
 has_toc: true
 ---
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ### 1. Tapas, daily 4.40pm @ Zoom
  - OBJECTIVE: end-of-day catchup / line-in-the-sand between work and home hours
