@@ -61,5 +61,7 @@ has_children: true
  - RATIONALE: knowledge-sharing and social activity
  - DRI: RA
 
-## Unless stated otherwise regular meetings are for **all team-members**
+
+Unless stated otherwise regular meetings are for **all team-members**
 {: .no_toc }
+{: .note }
