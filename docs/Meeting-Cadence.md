@@ -61,5 +61,5 @@ has_children: true
  - RATIONALE: knowledge-sharing and social activity
  - DRI: RA
 
-{: .info }
+{: .note }
 Unless stated otherwise regular meetings are for **all team-members**
