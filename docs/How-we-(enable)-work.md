@@ -30,6 +30,7 @@ Issues, proposed changes, etc should be raised directly with the DRI; **the DRI'
 
 The Sprint Sovereign runs (i.e. is the DRI for) Tapas as well as [Retro 👉](https://github.com/DeloitteDigitalUK/xLab/wiki) and [Backlog👉](https://github.com/DeloitteDigitalUK/xLab/wiki) sessions.
 
+{: .note }
 ### PRINCIPLE: Sovereign rotates every 2 weeks throughout every member of the team. You're encouraged to volunteer, otherwise a random name will be picked via Slackbot
 {: .no_toc }
 
