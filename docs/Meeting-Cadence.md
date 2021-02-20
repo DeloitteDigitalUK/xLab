@@ -15,21 +15,23 @@ has_toc: true
 
 ## Tapas, daily 4.40pm @ Zoom
  - OBJECTIVE: end-of-day catchup / line-in-the-sand between work and home hours
- - RATIONALE: something to act as an indicator that 'work' is over
+ - RATIONALE: indicator that 'work' is over (wellbeing, productivity, social)
  - DRI: [Sprint Sovereign](How-we-(enable)-work)
 
 
 ## Drop-in stand-up, daily 11AM @ Tandem
  - OBJECTIVE: team-wide update of task tracker
  - RATIONALE: a moment early in the day to raise issues, ask for help, and check team morale
+ - PROCESS:
+   - Jira Cloud: alternate going across the columns, checking tickets against assignees
  - DRI: [Sprint Sovereign](How-we-(enable)-work)
     
 ## Monday Pipeline, 10AM @ Zoom
  - OBJECTIVE: Reviewing **new incoming work**, qualifying it and understanding actions in terms of chasing opportunities
     - RATIONALE: kick-off the week with sharing upcoming plans, incoming work, and assesing workload
- - DRI: er bs eg
+ - DRI: ER / BS / EG
  - PROCESS:
-   - alternate going across the columns from left-right and right-left weekly
+   - Jira Cloud: Add or update tickets to reflect new or updated incoming work
  - PRINCIPLES
    - projects only added when we attach our price to them
 
@@ -37,6 +39,7 @@ has_toc: true
  - OBJECTIVE: team-wide catch-up on everything where there is active effort in the next two weeks
  - RATIONALE: share what you're working on; flag any issues, capacity, or need for help; connect with wider team to understand the strategic direction of the team
  - PROCESS:
+   - Jira Cloud
    - Go through projects on pipeline board from READY TO START to RUNNING and check in with DRI for update on progress (10 mins)
    - For each item in those columns (where item corresponds to task-for-specific-project) there are 2 questions to ask:
      - Is it in the right place? 
@@ -49,12 +52,12 @@ has_toc: true
 ## Wednesday Retro, 3pm every other week @ Zoom & Miro
 - OBJECTIVE: open feedback and discussion of team sentiment over the past 2 weeks
 - RATIONALE: look back, learn, and do better next time (what went well, what could've gone better, heroes)
-- PROCESS: Over the course of an hour spend time reflecting over the past 2 weeks and, on a Miro board, put up notes for 'what went well', 'what could have gone better', and who you'd like to nominate as 'heroes'
+- PROCESS: Miro: over the course of an hour spend time reflecting over the past 2 weeks and, on a Miro board, put up notes for 'what went well', 'what could have gone better', and who you'd like to nominate as 'heroes'
 - DRI: [Sprint Sovereign](How-we-(enable)-work) 
     
 ## Friday Demo & Chill, 4pm @ Zoom & Miro
  - OBJECTIVE: relax and celebrate the week-gone-by with a demo of something interesting or fun
  - RATIONALE: knowledge-sharing and social activity
- - DRI: ra
+ - DRI: RA
 
 Unless stated otherwise regular meetings are for **all team-members**
