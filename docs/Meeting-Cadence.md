@@ -62,3 +62,4 @@ has_children: true
  - DRI: RA
 
 ## Unless stated otherwise regular meetings are for **all team-members**
+{: .no_toc }
