@@ -13,7 +13,6 @@ Test the hypothesis: can better documentation address some of the challenges tha
 The handbook is narrow in scope and deep detail. abstracting for current work and projects this should contain sufficient information to answer a hypothetical new-joiner's question:
 
 > # during my first week here, what do I need to know to be at the right place at the right time?
->
 
 
 nothing more
