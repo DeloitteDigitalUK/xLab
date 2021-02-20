@@ -27,7 +27,7 @@ nothing more
 
 ### structure
 - The Changelog highlights a snapshot of our current working cadence.
-- Each change is linked to a [PR or Issue](https://github.com/DeloitteDigitalUK/xLab/issues) - this should help with discoverability of the logical flow of issue / problem -> change implemented to address that problem e.g. [**Slack is not asynchronous**](https://github.com/DeloitteDigitalUK/xLab/issues/3)
+- Each change is linked to a [PR or Issue](https://github.com/DeloitteDigitalUK/xLab/issues) - this creates a traceable flow of issue / problem -> change implemented to address that problem e.g. [**Slack is not asynchronous**](https://github.com/DeloitteDigitalUK/xLab/issues/3)
 
 ## What this is not
 
