@@ -13,3 +13,42 @@ gh_edit_repository: "https://github.com/DeloitteDigitalUK/xLab" # the github URL
 gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+callouts:
+  admonition:
+    # title:
+    color: grey-lt
+  attention:
+    title: Attention
+    color: purple
+  caution:
+    title: Caution
+    color: yellow
+  custom:
+    title: Custom
+    color: pink
+    opacity: 0.3
+  danger:
+    title: Danger
+    color: red
+  error:
+    title: Error
+    color: red
+  highlight:
+    color: yellow
+    opacity: 0.5
+  hint:
+    title: Hint
+    color: grey-dk
+  important:
+    title: Important
+    color: green
+  note:
+    title: Note
+    color: blue
+  tip:
+    title: Tip
+    color: grey-dk
+  warning:
+    title: Warning
+    color: red
