@@ -34,3 +34,16 @@ jobs:
           # gitAuthorEmail: ${{ env.GIT_AUTHOR_EMAIL }}
           branch: master # since default branch is develop in this example
           uses: newrelic/wiki-sync-action@v1.0.0
+  
+  job-sync-docs-to-wiki:
+    runs-on: ubuntu-latest
+    if: github.event_name != 'gollum'
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      - name: Sync docs to wiki
+        uses: newrelic/wiki-sync-action@master
+        with:
+          source: docs
+          destination: wiki
+          token: ${{ secrets.SYNC }}
