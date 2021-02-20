@@ -3,7 +3,6 @@ layout: default
 title: Meeting Cadence
 nav_order: 2
 has_toc: true
-has_children: true
 ---
 <details open markdown="block">
   <summary>
