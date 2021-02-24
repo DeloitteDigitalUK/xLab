@@ -10,12 +10,12 @@
   <p align="center">
     <br />
     <h3 align="center">
-     <a href="https://deloittedigitaluk.github.io/xLab/docs/"><strong>view handbook »</strong></a>
+     <a href="https://deloittedigitaluk.github.io/xLab/docs/Index.html"><strong>view handbook »</strong></a>
      </h3>
     <br />
     <br />
     <p align="center">
-    <a href="https://deloittedigitaluk.github.io/xLab/docs">handbook</a>
+    <a href="https://deloittedigitaluk.github.io/xLab/docs/Index.html">handbook</a>
     •
     <a href="https://github.com/DeloitteDigitalUK/xLab/releases">changelog</a>
     •
