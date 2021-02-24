@@ -30,8 +30,3 @@ nav_order: 2
 
 
 - Wait about 15 mins for it to activate
-
-
-
-{: .note }
-DRI: YC
