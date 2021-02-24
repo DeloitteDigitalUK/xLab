@@ -67,3 +67,13 @@ We've previously tried:
 
 **DRI - BS ER**
 
+
+## RescueTime & Slack integration
+
+- Sign in here https://www.rescuetime.com/integrations/slack
+- Once signed-in, on the top-right choose SETTINGS, and choose API & INTEGRATIONS from the pop-up menu
+- Choose SLACK (Learn More)
+- Scroll down, turn it OFF and ON again
+- Scroll down, choose which categories of apps your Slack Status should be updated for
+- Choose SAVE
+- Wait about 15 mins for it to activate
