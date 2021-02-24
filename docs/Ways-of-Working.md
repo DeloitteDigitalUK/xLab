@@ -1,7 +1,7 @@
 ---
 layout: default
-title: How we work
-nav_order: 3
+title: Ways of Working
+nav_order: 4
 has_children: true
 has_toc: true
 ---
