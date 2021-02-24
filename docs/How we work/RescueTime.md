@@ -1,3 +1,11 @@
+---
+layout: default
+title: RescueTime & Slack
+parent: How we work
+nav_order: 2
+---
+
+
 ## RescueTime & Slack integration
 
 - Sign in here https://www.rescuetime.com/integrations/slack
