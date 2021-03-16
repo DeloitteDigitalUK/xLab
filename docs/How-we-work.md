@@ -16,8 +16,8 @@ has_toc: true
 
 ## DRI / Directly Responsible Individual
 
+{: .note }
 > Apple coined the term "directly responsible individual" (DRI) to refer to the **one person with whom the buck stopped on any given project**. The idea is that every project is assigned an ***empowered*** DRI who is ultimately held accountable for the success (or failure) of that project.
-
 https://www.quora.com/How-well-does-Apples-Directly-Responsible-Individual-DRI-model-work-in-practice
 
 Issues, proposed changes, etc should be raised directly with the DRI; **the DRI's decision is final** - however, the DRI must **effectively communicate and document** the reasons, goals, and subsequent lessons for any changes implemented.
@@ -36,7 +36,7 @@ The Sprint Sovereign runs (i.e. is the DRI for) Tapas as well as [Retro 👉](ht
 
 ## Changelog
 
-Changes to ways-of-working (**standup, retro, backlog, toolkit, etc**) are documented in a **[changelog 👉](Changelog)**.
+Changes to ways-of-working (**standup, retro, backlog, toolkit, etc**) are documented in a **[changelog 👉](https://github.com/DeloitteDigitalUK/xLab/releases)**.
 
 This creates a **traceable** flow of logic that explains are current working cadence, ensuring we don't end up repeating things over time.
 
@@ -47,6 +47,6 @@ This creates a **traceable** flow of logic that explains are current working cad
 We currently use Jira Cloud for both task-tracking and management-information.
 We've previously tried:
 * Asana (lacked MI)
-* Jira (not 'helpful')
+* Jira (not helpful on an individual task-management level)
 
 **DRI - BS ER**
