@@ -18,7 +18,8 @@ has_toc: true
 
 {: .note }
 > Apple coined the term "directly responsible individual" (DRI) to refer to the **one person with whom the buck stopped on any given project**. The idea is that every project is assigned an ***empowered*** DRI who is ultimately held accountable for the success (or failure) of that project.
-https://www.quora.com/How-well-does-Apples-Directly-Responsible-Individual-DRI-model-work-in-practice
+
+> https://www.quora.com/How-well-does-Apples-Directly-Responsible-Individual-DRI-model-work-in-practice
 
 Issues, proposed changes, etc should be raised directly with the DRI; **the DRI's decision is final** - however, the DRI must **effectively communicate and document** the reasons, goals, and subsequent lessons for any changes implemented.
 
