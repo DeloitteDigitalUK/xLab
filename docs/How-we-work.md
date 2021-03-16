@@ -24,7 +24,7 @@ has_toc: true
 Issues, proposed changes, etc should be raised directly with the DRI; **the DRI's decision is final** - however, the DRI must **effectively communicate and document** the reasons, goals, and subsequent lessons for any changes implemented.
 
 {: .note }
-### PRINCIPLE: **Every initiative** will have a **DRI**
+Every initiative will have a **DRI**
 {: .no_toc }
 
 ## Sprint Sovereign
@@ -32,7 +32,7 @@ Issues, proposed changes, etc should be raised directly with the DRI; **the DRI'
 The Sprint Sovereign runs (i.e. is the DRI for) Tapas as well as [Retro 👉](https://github.com/DeloitteDigitalUK/xLab/wiki) and [Backlog👉](https://github.com/DeloitteDigitalUK/xLab/wiki) sessions.
 
 {: .note }
-### PRINCIPLE: Sovereign rotates every 2 weeks throughout every member of the team. You're encouraged to volunteer, otherwise a random name will be picked via Slackbot
+Sovereign rotates every 2 weeks throughout every member of the team. You're encouraged to volunteer, otherwise a random name will be picked via Slackbot
 {: .no_toc }
 
 ## Changelog
