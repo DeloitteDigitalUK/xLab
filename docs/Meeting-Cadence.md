@@ -16,7 +16,7 @@ has_toc: true
 ## Tapas, daily 4.40pm @ Zoom
  - OBJECTIVE: end-of-day catchup / line-in-the-sand between work and home hours
  - RATIONALE: indicator that 'work' is over (wellbeing, productivity, social)
- - DRI: [Sprint Sovereign](How-we-(enable)-work)
+ - DRI: [Sprint Sovereign](How-we-work)
 
 
 ## Drop-in stand-up, daily 11AM @ Tandem
@@ -24,7 +24,7 @@ has_toc: true
  - RATIONALE: a moment early in the day to raise issues, ask for help, and check team morale
  - PROCESS:
    - Jira Cloud: alternate going across the columns, checking tickets against assignees
- - DRI: [Sprint Sovereign](How-we-(enable)-work)
+ - DRI: [Sprint Sovereign](How-we-work)
     
 ## Monday Pipeline, 10AM @ Zoom
  - OBJECTIVE: Reviewing **new incoming work**, qualifying it and understanding actions in terms of chasing opportunities
